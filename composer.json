@@ -1,0 +1,10 @@
+{
+    "name": "vendor/auth-php",
+    "description": "Autenticacao em PHP puro",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
